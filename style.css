@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
+
+body {
+    color: white;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+p {
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.container h1,h2,h3,h4,h5,h6,p,a,address{
+    color: white;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+#header h1,p{
+    font-family: 'Readex Pro', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+#header {
+    background-image: url(header.gif);
+    background-position: center;
+    display: cover;
+}
+
+#header img {
+    width: 100px
+}
+
+nav { 
+    background-color: black
+}
+
+.back {
+  background-image: url(body.webp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 40px;
+ }
+
+ #szopatapp {
+    max-height: 600px;
+ }
+
+ li {
+  list-style-type: none;
+ }
+
+ address {
+  font-size: 35px
+ }
+
+ .row img {
+    text-align: center;
+ }
+
